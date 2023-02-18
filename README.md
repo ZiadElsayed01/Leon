@@ -1,2 +1,2 @@
 # Leon
-Leon | Template One
+Leon | project One
